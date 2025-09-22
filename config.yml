@@ -140,7 +140,7 @@ content:
           url: https://pixabay.com/images/search            
     - name: 文件传输
       sites:
-        - name:4275 
+        - name: 4275
           description: 测试
           url: https://4275.com/
         - name: 直链
