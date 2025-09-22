@@ -11,7 +11,7 @@ favicon: "https://github.com/dqtx760.png?size=40"
 url: https://dqtx760.github.io/999/
 
 # github profile url
-github: "https://github.com/dqtx760"
+github: "https://github.com/dqtx760/999"
 
 # footer message
 footer: © 2021-2021 @dqtx760
@@ -178,74 +178,31 @@ content:
         - name: Xget
           description: git clone加速
           url:  https://xuc.xi-xu.me/             
-    - name: 素材下载
-      sites:
-        - name: wallhalla
-          description: Find awesome high quality wallpapers for desktop and mobile in one place.
-          url: https://wallhalla.com/
-        - name: 365PSD
-          description: Free PSD & Graphics, Illustrations
-          url: https://365psd.com/
-        - name: Medialoot
-          description: Free & Premium Design Resources — Medialoot
-          url: https://medialoot.com/
-        - name: 千图网
-          description: 专注免费设计素材下载的网站
-          url: http://www.58pic.com/
     - name: TV资源
       sites:
-        - name: Freebiesbug
-          description: Hand-picked resources for web designer and developers, constantly updated.
-          url: https://freebiesbug.com/
-        - name: Freebie Supply
-          description: Free Resources For Designers
-          url: https://freebiesupply.com/
-        - name: 云瑞
-          description: 优秀设计资源的分享网站
-          url: https://www.yrucd.com/
-        - name: 稀土区
-          description: 优质设计开发资源分享
-          url: https://xituqu.com/
-    - name: 协助工具
-      sites:
-        - name: Sketch
-          description: The digital design toolkit
-          url: https://sketchapp.com/
-        - name: Sketch Measure
-          description: Friendly user interface offers you a more intuitive way of making marks.
-          url: http://utom.design/measure/
-        - name: Sketch App Sources
-          description: Free design resources and plugins - Icons, UI Kits, Wireframes, iOS, Android Templates for Sketch
-          url: https://www.sketchappsources.com/
-        - name: Sketch.im
-          description: Sketch 相关资源汇聚
-          url: http://www.sketch.im/
-    - name: 测试资源
-      sites:
-        - name: Google Font
-          description: Making the web more beautiful, fast, 和 open through great typography
-          url: https://fonts.google.com/
-        - name: Typekit
-          description: Quality fonts from the world’s best foundries.
-          url: https://typekit.com/
-        - name: 方正字库
-          description: 方正字库官方网站
-          url: http://www.foundertype.com/
-        - name: 字体传奇网
-          description: 中国首个字体品牌设计师交流网
-          url: http://ziticq.com/
-
+        - name: my TV
+          description: 
+          url: https://github.com/lizongying/my-tv-0
+        - name: 网易爆米花
+          description: 
+          url: https://bmh.163.com/
+        - name: ZyPlayer
+          description: 
+          url: https://github.com/Hiram-Wong/ZyPlayer
+        - name: PotPlayer 
+          description: 
+          url: https://potplayer.org/
     - name: 关于本站
       sites:
-        - name: MockupZone
-          description: Mockup Zone is an online store where you can find free and premium PSD mockup files to show your designs in a professional way.
-          url: https://mockup.zone/
-        - name: Dunnnk
-          description: Generate Product Mockups For Free
-          url: http://dunnnk.com/
-        - name: Graphberry
-          description: Free design resources, Mockups, PSD web templates, Icons
-          url: http://www.graphberry.com/
-        - name: Threed
-          description: Generate 3D Mockups right in your Browser
-          url: http://threed.io/
+        - name: 大强同学
+          description: 
+          url: https://dqtx.cc
+        - name: 附件表
+          description: 
+          url: https://88.dqtx.cc/main.html#/README.md
+        - name: 远程
+          description: 
+          url: https://www.742112.xyz/
+        - name: 流量包
+          description: 
+          url: https://77.dqtx.cc/
