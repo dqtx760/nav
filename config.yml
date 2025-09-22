@@ -137,7 +137,13 @@ content:
           url: https://www.watermarkremover.io/zh       
         - name: pixabay
           description: 图片素材
-          url: https://pixabay.com/images/search            
+          url: https://pixabay.com/images/search         
+         - name: 二维码
+          description: 二维码生成
+          url: https://qrbtf.com/zh      
+        - name: 图标
+          description: 图标素材
+          url: https://icon-icons.com/zh/               
     - name: 文件传输
       sites:
         - name: 4275
@@ -157,7 +163,10 @@ content:
           url: https://landrop.app/
         - name: 蓝奏云
           description: 一个蓝奏云增强脚本
-          url: https://github.com/XIU2/UserScript
+          url: https://greasyfork.org/zh-CN/scripts/419224-%E8%93%9D%E5%A5%8F%E4%BA%91%E7%BD%91%E7%9B%98%E5%A2%9E%E5%BC%BA
+        - name: 123
+          description: 一个123增强脚本
+          url: https://greasyfork.org/zh-CN/scripts/519353-123%E4%BA%91%E7%9B%98%E8%A7%A3%E9%94%81       
     - name: 网络相关
       sites:
         - name: Hiddify
@@ -165,7 +174,7 @@ content:
           url: https://github.com/hiddify/hiddify-app/releases/tag/v2.0.5  
         - name: 节点
           description: 科学上网节点
-          url:  https://77.dqtx.cc/      
+          url:  https://ccv.gwzxwk.com/#/register?code=L2FOV7Yb     
         - name: steampp
           description: 
           url: https://steampp.net/       
@@ -178,6 +187,12 @@ content:
         - name: Xget
           description: git clone加速
           url:  https://xuc.xi-xu.me/             
+        - name: openwrt 
+          description: openwrt 软路由固件
+          url: https://github.com/kiddin9/Kwrt    
+        - name: cdnip
+          description: openwrt优选IP脚本
+          url:  https://github.com/yonggekkk/openwrt_win64-ddns-cdnip               
     - name: TV资源
       sites:
         - name: my TV
@@ -194,7 +209,7 @@ content:
           url: https://potplayer.org/
     - name: 关于本站
       sites:
-        - name: 大强同学
+        - name: 官网
           description: 
           url: https://dqtx.cc
         - name: 附件表
