@@ -24,6 +24,8 @@ template: webstack
 google_analytics: "G-EXE1PJ8CR2"
 
 webstack:
+  # 设置网站默认主题样式为浅色
+  style: light
   search:
     enabled: false
     default: google
@@ -220,4 +222,4 @@ content:
           url: https://www.742112.xyz/
         - name: 流量包
           description: 
-          url: https://77.dqtx.cc/
+          url: https://77.dqtx.cc/```
