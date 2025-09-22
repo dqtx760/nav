@@ -137,13 +137,13 @@ content:
           url: https://www.watermarkremover.io/zh       
         - name: pixabay
           description: 图片素材
-          url: https://pixabay.com/images/search         
-         - name: 二维码
+          url: https://pixabay.com/images/search
+        - name: 二维码
           description: 二维码生成
-          url: https://qrbtf.com/zh      
+          url: https://qrbtf.com/zh
         - name: 图标
           description: 图标素材
-          url: https://icon-icons.com/zh/               
+          url: https://icon-icons.com/zh/
     - name: 文件传输
       sites:
         - name: 4275
