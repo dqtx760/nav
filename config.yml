@@ -77,8 +77,7 @@ content:
           url: https://www.xiangongyun.com/register/TLJSYM
         - name: 提示词优化
           description: 提示词优化器
-          url: https://prompt.always200.com/
-          
+          url: https://prompt.always200.com/          
     - name: 电影网站
       sites:
         - name: VeloraTV
@@ -93,7 +92,6 @@ content:
         - name: 袋鼠影视
           description: 欧美剧，页面感觉无光
           url:  https://dsdytv.com/  
-
     - name: 壁纸网站
       sites:
         - name: 遮风壁纸
@@ -139,8 +137,7 @@ content:
           url: https://www.watermarkremover.io/zh       
          - name: pixabay
           description: 图片素材
-          url: https://pixabay.com/images/search
-            
+          url: https://pixabay.com/images/search            
     - name: 文件传输
       sites:
         - name:4275 
@@ -195,7 +192,6 @@ content:
         - name: 千图网
           description: 专注免费设计素材下载的网站
           url: http://www.58pic.com/
-
     - name: TV资源
       sites:
         - name: Freebiesbug
