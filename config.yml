@@ -64,7 +64,7 @@ content:
           description: 长连接转短链接
           url: https://suo.im/
         - name: 临时邮箱
-          description: 十秒钟内收到邮。
+          description: 十秒钟内收到邮件。
           url: https://tempmail.cn/   
     - name: 人工智能
       sites:
@@ -72,13 +72,13 @@ content:
           description: 写作辅助工具
           url: https://chat.openai.com/
         - name: Gemini
-          description: 代码速度快
+          description: Gemini2.5Pro
           url: https://gemini.google.com/
         - name: Grok
           description: 马斯克的AI工具
           url: https://grok.com/ 
         - name: perplexity
-          description: AI搜索牛逼
+          description: AI搜索引擎
           url: https://www.perplexity.ai/
         - name: Cherry-studio      
           description: AI客户端
@@ -90,12 +90,12 @@ content:
           description: 提示词优化器
           url: https://prompt.always200.com/       
         - name: 提示词合集
-          description: 各大AI博主的提示词合集
+          description: 优质提示词合集
           url: https://www.prompterhub.cn/best-practices              
     - name: 电影网站
       sites:
         - name: VeloraTV
-          description: UI感觉漂亮高清
+          description: UI精美，播放高清
           url: https://veloratv.ru/
         - name: Flixer
           description: 高清无广告
@@ -104,18 +104,18 @@ content:
           description: 欧美剧，页面感觉无光
           url:  https://ddys.pro/
         - name: 袋鼠影视
-          description: 欧美剧，页面感觉无光
+          description: 欧美剧为主，页面干净
           url:  https://dsdytv.com/  
         - name: my TV
           description: 电视直播软件
           url: https://github.com/lizongying/my-tv-0
         - name: 网易爆米花
-          description: 网盘刮削神器
+          description: 网盘刮削神器播放器
           url: https://bmh.163.com/
         - name: ZyPlayer
           description: 电脑影视播放器
           url: https://github.com/Hiram-Wong/ZyPlayer
-        - name: iptv-api 
+        - name: Iptv-api 
           description: 自编译直播源
           url: https://xodnytdcaw.feishu.cn/wiki/Id2KwbqcgiFzV9kfh83cZ3brnod?fromScene=spaceOverview
     - name: 壁纸网站
@@ -157,7 +157,19 @@ content:
           url: https://www.openai.fm/
         - name: get笔记
           description: AI笔记
-          url: https://www.biji.com/note         
+          url: https://www.biji.com/note     
+        - name: B站
+          description: 科技数码区
+          url: https://space.bilibili.com/491358682/upload/video
+        - name: YouTube
+          description: 海外视频社区
+          url: https://www.youtube.com/@dqtx760/videos
+        - name: 抖音
+          description: 字节公司产品
+          url: https://www.douyin.com/user/self?from_tab_name=main 
+        - name: 小红书
+          description: 兴趣社区
+          url: https://www.xiaohongshu.com/user/profile/5ce0d3a7000000001202e31b?xsec_token=YBBIYOqFwg1n9igsF09ObGwd0ulMEur6mgk7llsXBpS_M=&xsec_source=app_share&xhsshare=CopyLink&appuid=5ce0d3a7000000001202e31b&apptime=1751276165&share_id=94cac1806524407ea7a7f0f960f41b38      
     - name: 图片工具
       sites:
         - name: 美图设计师
