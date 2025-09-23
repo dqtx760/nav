@@ -64,7 +64,7 @@ content:
           description: 长连接转短链接
           url: https://suo.im/
         - name: 临时邮箱
-          description: 秒钟内收到邮。
+          description: 十秒钟内收到邮。
           url: https://tempmail.cn/   
     - name: 人工智能
       sites:
@@ -80,18 +80,18 @@ content:
         - name: perplexity
           description: AI搜索牛逼
           url: https://www.perplexity.ai/
-        - name: 即梦
-          description: 即梦AI
-          url: https://jimeng.jianying.com/ai-tool/image/generate         
-        - name: cherry-studio
+        - name: Cherry-studio      
           description: AI客户端
           url: https://www.cherry-ai.com/
         - name: 仙宫云
-          description: AI云服务器租赁平台
+          description: AI云服务器租赁
           url: https://www.xiangongyun.com/register/TLJSYM
         - name: 提示词优化
           description: 提示词优化器
-          url: https://prompt.always200.com/          
+          url: https://prompt.always200.com/       
+        - name: 提示词合集
+          description: 各大AI博主的提示词合集
+          url: https://www.prompterhub.cn/best-practices              
     - name: 电影网站
       sites:
         - name: VeloraTV
@@ -107,16 +107,16 @@ content:
           description: 欧美剧，页面感觉无光
           url:  https://dsdytv.com/  
         - name: my TV
-          description: 
+          description: 电视直播软件
           url: https://github.com/lizongying/my-tv-0
         - name: 网易爆米花
-          description: 
+          description: 网盘刮削神器
           url: https://bmh.163.com/
         - name: ZyPlayer
-          description: 
+          description: 电脑影视播放器
           url: https://github.com/Hiram-Wong/ZyPlayer
         - name: iptv-api 
-          description: 
+          description: 自编译直播源
           url: https://xodnytdcaw.feishu.cn/wiki/Id2KwbqcgiFzV9kfh83cZ3brnod?fromScene=spaceOverview
     - name: 壁纸网站
       sites:
@@ -147,30 +147,30 @@ content:
     - name: 脑洞运营
       sites:
         - name: 热榜
-          description: 
+          description: 每日热点追踪
           url: https://newsnow.busiyi.world/
         - name: mdnice
-          description: 
+          description: mrkdown排版
           url: https://editor.mdnice.com/
         - name: openai
-          description: 
+          description: 文字转语音
           url: https://www.openai.fm/
         - name: get笔记
-          description: 
+          description: AI笔记
           url: https://www.biji.com/note         
     - name: 图片工具
       sites:
         - name: 美图设计师
-          description: 
+          description: 封面制作
           url: https://www.designkit.com
-        - name: 在线PS
-          description: 
-          url: https://www.photopea.com/
+        - name: 即梦AI
+          description: 字节文生图工具
+          url: https://jimeng.jianying.com/ai-tool/image/generate     
         - name: 拼图
-          description: 
+          description: 网页端
           url: https://collagemaker.tools/photo/
         - name: 截图美化
-          description: 
+          description: 效果不错
           url: https://shots.so/
         - name: 去水印
           description: 无论水印多复杂
@@ -199,7 +199,7 @@ content:
           description: 网盘拉新赚收益
           url: https://dt.bd.cn/#/pages/login/register?invite_code=577546            
         - name: 4275
-          description: 测试
+          description: 无需注册登录
           url: https://4275.com/
         - name: 直链
           description: 蓝奏云/123云盘生成
@@ -225,13 +225,13 @@ content:
           description: 接码平台
           url:  https://sms-activate.guru/?ref=12307132         
         - name: steampp
-          description: 
+          description: GitHub访问加速
           url: https://steampp.net/       
-        - name: dev-sidecar
-          description: 
-          url: https://github.com/docmirror/dev-sidecar
+        - name: 2FA
+          description: 2FA工具
+          url: https://2fa.run/
         - name: github加速
-          description: GitHub文件加速下载
+          description: GitHub下载加速
           url: https://yishijie.gitlab.io/ziyuan/     
         - name: Xget
           description: git clone加速
@@ -239,14 +239,14 @@ content:
     - name: 关于本站
       sites:
         - name: 大强官网
-          description: 
+          description: 导航页
           url: https://dqtx.cc
         - name: 大强附件表
-          description: 
+          description: 往期视频附件
           url: https://88.dqtx.cc/main.html#/README.md
         - name: 远程支持
-          description: 
+          description: 远程解决电脑问题
           url: https://www.742112.xyz/
         - name: chrome插件
-          description: 
+          description: chrome优质插件
           url: https://discreet-ringer-ef6.notion.site/chrome-19b351994e40800db8fcd988348f533a
