@@ -235,7 +235,47 @@ content:
           url: https://yishijie.gitlab.io/ziyuan/     
         - name: Xget
           description: git clone加速
-          url:  https://xuc.xi-xu.me/                            
+          url:  https://xuc.xi-xu.me/    
+    - name: 重装系统
+      sites:
+        - name: Massgrave
+          description: Win镜像下载
+          url: https://massgrave.dev/windows_ltsc_links  
+        - name: itellyou
+          description: Win镜像下载
+          url: https://msdn.itellyou.cn/?ang=2h-cn     
+        - name: uupdump 
+          description: Win镜像下载
+          url: https://uupdump.net/    
+        - name: Cmdpe
+          description: Win镜像下载
+          url:  https://www.cmdpe.com/post/246.html    
+        - name: Ventoy
+          description: U启工具
+          url: https://www.ventoy.net/cn/download.html  
+        - name: Rufus
+          description: U启工具
+          url: https://rufus.ie/zh/     
+        - name: WePE 
+          description: U启工具
+          url: https://www.wepe.com.cn/download.html    
+        - name: balena
+          description: U启工具
+          url:  https://etcher.balena.io/      
+     - name: 苹果相关
+      sites:
+        - name: hubweb
+          description: Win镜像下载
+          url: https://hubweb.cn/  
+        - name: 快捷指令
+          description: 少数派旗下站点
+          url: https://sspai.com/page/playbook/zh-CN     
+        - name: gofans
+          description: 限免APP
+          url: https://gofans.cn/    
+        - name: IMEI查询
+          description: 苹果序列号查询
+          url:  https://www.guofenjianding.com/index             
     - name: 关于本站
       sites:
         - name: 大强官网
