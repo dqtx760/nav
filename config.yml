@@ -51,9 +51,9 @@ content:
         - name: Cloudflare
           description: 域名托管/反向代理。
           url: https://dash.cloudflare.com/
-        - name: 白噪音
-          description: 保持专注和静谧
-          url: https://yuyin.ognai.com/   
+        - name: Greasy
+          description: 油猴脚本下载
+          url: https://greasyfork.org/zh-CN   
         - name: IP查询
           description: IP4/ipv6查询。
           url: https://ip.sb/
@@ -66,7 +66,7 @@ content:
         - name: 临时邮箱
           description: 秒钟内收到邮。
           url: https://tempmail.cn/   
-    - name: AI工具
+    - name: 人工智能
       sites:
         - name: ChatGPT
           description: 写作辅助工具
@@ -97,15 +97,27 @@ content:
         - name: VeloraTV
           description: UI感觉漂亮高清
           url: https://veloratv.ru/
-        - name: 4K影视
-          description: 不错,高清
-          url: https://www.4kvm.net/
+        - name: Flixer
+          description: 高清无广告
+          url: https://flixer.su/
         - name: 低端电影
           description: 欧美剧，页面感觉无光
           url:  https://ddys.pro/
         - name: 袋鼠影视
           description: 欧美剧，页面感觉无光
           url:  https://dsdytv.com/  
+        - name: my TV
+          description: 
+          url: https://github.com/lizongying/my-tv-0
+        - name: 网易爆米花
+          description: 
+          url: https://bmh.163.com/
+        - name: ZyPlayer
+          description: 
+          url: https://github.com/Hiram-Wong/ZyPlayer
+        - name: iptv-api 
+          description: 
+          url: https://xodnytdcaw.feishu.cn/wiki/Id2KwbqcgiFzV9kfh83cZ3brnod?fromScene=spaceOverview
     - name: 壁纸网站
       sites:
         - name: 遮风壁纸
@@ -132,6 +144,20 @@ content:
         - name: wallspic
           description: 手机壁纸
           url: https://wallspic.com/cn    
+    - name: 脑洞运营
+      sites:
+        - name: 热榜
+          description: 
+          url: https://newsnow.busiyi.world/
+        - name: mdnice
+          description: 
+          url: https://editor.mdnice.com/
+        - name: openai
+          description: 
+          url: https://www.openai.fm/
+        - name: get笔记
+          description: 
+          url: https://www.biji.com/note         
     - name: 图片工具
       sites:
         - name: 美图设计师
@@ -195,9 +221,9 @@ content:
         - name: openwrt 
           description: openwrt 软路由固件
           url: https://github.com/kiddin9/Kwrt    
-        - name: cdnip
-          description: openwrt优选IP脚本
-          url:  https://github.com/yonggekkk/openwrt_win64-ddns-cdnip         
+        - name: Sms
+          description: 接码平台
+          url:  https://sms-activate.guru/?ref=12307132         
         - name: steampp
           description: 
           url: https://steampp.net/       
@@ -210,20 +236,6 @@ content:
         - name: Xget
           description: git clone加速
           url:  https://xuc.xi-xu.me/                            
-    - name: 电视盒子
-      sites:
-        - name: my TV
-          description: 
-          url: https://github.com/lizongying/my-tv-0
-        - name: 网易爆米花
-          description: 
-          url: https://bmh.163.com/
-        - name: ZyPlayer
-          description: 
-          url: https://github.com/Hiram-Wong/ZyPlayer
-        - name: iptv-api 
-          description: 
-          url: https://xodnytdcaw.feishu.cn/wiki/Id2KwbqcgiFzV9kfh83cZ3brnod?fromScene=spaceOverview
     - name: 关于本站
       sites:
         - name: 大强官网
