@@ -14,7 +14,7 @@ url: https://dqtx760.github.io/999/
 github: "https://github.com/dqtx760/999"
 
 # footer message
-footer: © 2025-2065 @dqtx760
+footer: © 2025 大强个人专用导航，建议收藏！
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -54,6 +54,18 @@ content:
         - name: 白噪音
           description: 保持专注和静谧
           url: https://yuyin.ognai.com/   
+        - name: IP查询
+          description: IP4/ipv6查询。
+          url: https://github.com/
+        - name: ping
+          description: 测试网站的ping连接
+          url: https://ping.pe/            
+        - name: 短链
+          description: 长连接转短链接
+          url: https://suo.im/
+        - name: 临时邮箱
+          description: 秒钟内收到邮。
+          url: https://tempmail.cn/   
     - name: AI工具
       sites:
         - name: ChatGPT
@@ -148,27 +160,30 @@ content:
           url: https://icon-icons.com/zh/
     - name: 文件传输
       sites:
+        - name: landrop
+          description: 局域网传输
+          url: https://landrop.app/
+        - name: openlist
+          description: 网盘挂载工具
+          url: https://github.com/OpenListTeam/OpenList          
+        - name: piclist
+          description: 图床工具
+          url: https://piclist.cn/
+        - name: 任推帮
+          description: 网盘拉新赚收益
+          url: https://dt.bd.cn/#/pages/login/register?invite_code=577546            
         - name: 4275
           description: 测试
           url: https://4275.com/
         - name: 直链
           description: 蓝奏云/123云盘生成
           url: https://lz.qaiu.top/
-        - name: piclist
-          description: 图床工具
-          url: https://piclist.cn/
-        - name: openlist
-          description: 6545
-          url: https://doc.oplist.org/
-        - name: landrop
-          description: 局域网传输
-          url: https://landrop.app/
         - name: 蓝奏云
           description: 一个蓝奏云增强脚本
           url: https://greasyfork.org/zh-CN/scripts/419224-%E8%93%9D%E5%A5%8F%E4%BA%91%E7%BD%91%E7%9B%98%E5%A2%9E%E5%BC%BA
         - name: 123
           description: 一个123增强脚本
-          url: https://greasyfork.org/zh-CN/scripts/519353-123%E4%BA%91%E7%9B%98%E8%A7%A3%E9%94%81       
+          url: https://greasyfork.org/zh-CN/scripts/519353-123%E4%BA%91%E7%9B%98%E8%A7%A3%E9%94%81        
     - name: 网络相关
       sites:
         - name: Hiddify
@@ -177,6 +192,12 @@ content:
         - name: 节点
           description: 科学上网节点
           url:  https://ccv.gwzxwk.com/#/register?code=L2FOV7Yb     
+         - name: openwrt 
+          description: openwrt 软路由固件
+          url: https://github.com/kiddin9/Kwrt    
+        - name: cdnip
+          description: openwrt优选IP脚本
+          url:  https://github.com/yonggekkk/openwrt_win64-ddns-cdnip         
         - name: steampp
           description: 
           url: https://steampp.net/       
@@ -188,13 +209,7 @@ content:
           url: https://yishijie.gitlab.io/ziyuan/     
         - name: Xget
           description: git clone加速
-          url:  https://xuc.xi-xu.me/             
-        - name: openwrt 
-          description: openwrt 软路由固件
-          url: https://github.com/kiddin9/Kwrt    
-        - name: cdnip
-          description: openwrt优选IP脚本
-          url:  https://github.com/yonggekkk/openwrt_win64-ddns-cdnip               
+          url:  https://xuc.xi-xu.me/                            
     - name: TV资源
       sites:
         - name: my TV
@@ -206,20 +221,20 @@ content:
         - name: ZyPlayer
           description: 
           url: https://github.com/Hiram-Wong/ZyPlayer
-        - name: PotPlayer 
+        - name: iptv-api 
           description: 
-          url: https://potplayer.org/
+          url: https://xodnytdcaw.feishu.cn/wiki/Id2KwbqcgiFzV9kfh83cZ3brnod?fromScene=spaceOverview
     - name: 关于本站
       sites:
-        - name: 官网
+        - name: 大强官网
           description: 
           url: https://dqtx.cc
-        - name: 附件表
+        - name: 大强附件表
           description: 
           url: https://88.dqtx.cc/main.html#/README.md
-        - name: 远程
+        - name: 远程支持
           description: 
           url: https://www.742112.xyz/
-        - name: 流量包
+        - name: chrome插件
           description: 
-          url: https://77.dqtx.cc/```
+          url: https://discreet-ringer-ef6.notion.site/chrome-19b351994e40800db8fcd988348f533a```
