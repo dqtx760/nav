@@ -192,7 +192,7 @@ content:
         - name: 节点
           description: 科学上网节点
           url: https://ccv.gwzxwk.com/#/register?code=L2FOV7Yb     
-         - name: openwrt 
+        - name: openwrt 
           description: openwrt 软路由固件
           url: https://github.com/kiddin9/Kwrt    
         - name: cdnip
@@ -237,4 +237,4 @@ content:
           url: https://www.742112.xyz/
         - name: chrome插件
           description: 
-          url: https://discreet-ringer-ef6.notion.site/chrome-19b351994e40800db8fcd988348f533a```
+          url: https://discreet-ringer-ef6.notion.site/chrome-19b351994e40800db8fcd988348f533a
