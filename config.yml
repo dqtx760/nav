@@ -261,7 +261,7 @@ content:
           url: https://www.wepe.com.cn/download.html    
         - name: balena
           description: U启工具
-          url:  https://etcher.balena.io/      
+          url: https://etcher.balena.io/  
      - name: 苹果相关
       sites:
         - name: hubweb
