@@ -191,7 +191,7 @@ content:
           url: https://github.com/hiddify/hiddify-app/releases/tag/v2.0.5  
         - name: 节点
           description: 科学上网节点
-          url:  https://ccv.gwzxwk.com/#/register?code=L2FOV7Yb     
+          url: https://ccv.gwzxwk.com/#/register?code=L2FOV7Yb     
          - name: openwrt 
           description: openwrt 软路由固件
           url: https://github.com/kiddin9/Kwrt    
