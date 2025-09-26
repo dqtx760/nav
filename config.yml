@@ -244,9 +244,9 @@ content:
         - name: 二维码
           description: 二维码生成
           url: https://qrbtf.com/zh
-        - name: 图标
-          description: 图标素材
-          url: https://icon-icons.com/zh/
+        - name: excalidraw
+          description: 白板
+          url: https://excalidraw.com/
     - name: 文件传输
       sites:
         - name: landrop
@@ -330,7 +330,7 @@ content:
         - name: HiBit
           description: 软件卸载
           url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/iLHZK371f3kf
-         - name: Winrar
+        - name: Winrar
           description: 解压缩软件
           url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/iG5A6371g9cj           
         - name: SoftCnKiller
@@ -342,7 +342,7 @@ content:
         - name: DiskGenius 
           description: 硬盘分区管理工具
           url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/iboYh2znqo3e    
-         - name: DirectX
+        - name: DirectX
           description: DLL修复
           url: https://pan.xunlei.com/s/VOa34ENGBCynPo4VLrHIxu5rA1?pwd=6j9w#  
         - name: Defender
