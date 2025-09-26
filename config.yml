@@ -66,6 +66,46 @@ content:
         - name: 临时邮箱
           description: 十秒钟内收到邮件。
           url: https://tempmail.cn/   
+    - name: 下载工具
+      sites:
+        - name: IDM
+          description: 最大支持32线程
+          url: https://www.internetdownloadmanager.com/
+        - name: YTSage
+          description: 采用yt-dlp架构
+          url: https://github.com/oop7/YTSage/releases
+        - name: B站下载
+          description: chrome插件
+          url: https://chromewebstore.google.com/detail/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B/djinnjdnedmcilpnboifdhfgbbhgieee 
+        - name: 小红书下载
+          description: chrome插件
+          url: https://chromewebstore.google.com/detail/dhjaibcmgocbpegmejfphjhhpaphmkpp
+        - name: 123
+          description: 一个123增强脚本
+          url: https://greasyfork.org/zh-CN/scripts/519353-123%E4%BA%91%E7%9B%98%E8%A7%A3%E9%94%81                 
+        - name: 视频号下载      
+          description: 视频号下载软件
+          url: https://github.com/ltaoo/wx_channels_download/releases
+        - name: 蓝奏云
+          description: 第三方客户端
+          url: https://github.com/chenhb23/lanzouyun-disk/releases                 
+        - name: github加速
+          description: GitHub下载加速
+          url: https://yishijie.gitlab.io/ziyuan/
+    - name: 效率工具
+      sites:
+        - name: PixPin
+          description: 截图工具
+          url: https://pixpin.cn/
+        - name: Listary
+          description: 文件搜索工具
+          url: https://www.listary.net/
+        - name: LANDrop
+          description: 局域网传输
+          url: https://landrop.app/ 
+        - name: PicList
+          description: 图床工具
+          url: https://piclist.cn/
     - name: 人工智能
       sites:
         - name: ChatGPT
@@ -91,7 +131,21 @@ content:
           url: https://prompt.always200.com/       
         - name: 提示词合集
           description: 优质提示词合集
-          url: https://www.prompterhub.cn/best-practices              
+          url: https://www.prompterhub.cn/best-practices
+    - name: 编程开发
+      sites:
+        - name: Cursor
+          description: 集成AI功能的代码编辑器
+          url: https://cursor.com/  
+        - name: VSCode
+          description: 代码编辑器
+          url: https://www.kdocs.cn/l/clmJIYpDA4mH     
+        - name: HBuilder
+          description: 代理编辑器
+          url: https://www.dcloud.io/hbuilderx.html    
+        - name: MobaXterm
+          description: ssl汉化版
+          url: https://github.com/RipplePiam/MobaXterm-Chinese-Simplified/releases            
     - name: 电影网站
       sites:
         - name: VeloraTV
@@ -112,9 +166,6 @@ content:
         - name: 网易爆米花
           description: 网盘刮削神器播放器
           url: https://bmh.163.com/
-        - name: ZyPlayer
-          description: 电脑影视播放器
-          url: https://github.com/Hiram-Wong/ZyPlayer
         - name: Iptv-api 
           description: 自编译直播源
           url: https://xodnytdcaw.feishu.cn/wiki/Id2KwbqcgiFzV9kfh83cZ3brnod?fromScene=spaceOverview
@@ -274,6 +325,32 @@ content:
         - name: balena
           description: U启工具
           url: https://etcher.balena.io/
+    - name: 系统维护
+      sites:
+        - name: HiBit
+          description: 软件卸载
+          url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/iLHZK371f3kf
+         - name: Winrar
+          description: 解压缩软件
+          url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/iG5A6371g9cj           
+        - name: SoftCnKiller
+          description: 流氓软件专项清理
+          url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/ikf5j2ancdgh
+        - name: W11ClassicMenu
+          description: Win11恢复传统右键菜单
+          url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/iNZOo320ywyb          
+        - name: DiskGenius 
+          description: 硬盘分区管理工具
+          url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/iboYh2znqo3e    
+         - name: DirectX
+          description: DLL修复
+          url: https://pan.xunlei.com/s/VOa34ENGBCynPo4VLrHIxu5rA1?pwd=6j9w#  
+        - name: Defender
+          description: 彻底禁用
+          url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/ieefU2anb7pe     
+        - name: 驱动总裁 
+          description: 驱动安装器
+          url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/ig3Rn3257ebi            
     - name: 苹果相关
       sites:
         - name: hubweb
@@ -299,7 +376,21 @@ content:
           url: https://www.icloud.com.cn/    
         - name: 尝鲜派
           description: 最新版本体验
-          url:  https://betahub.cn/            
+          url:  https://betahub.cn/
+    - name: 影视娱乐
+      sites:
+        - name: OBS
+          description: 录频直播工具
+          url: https://obsproject.com/  
+        - name: PotPlayer
+          description: 视频播放器
+          url: https://www.kdocs.cn/l/clmJIYpDA4mH     
+        - name: AlgerMusicPlayer
+          description: 网易云第三方播放器
+          url: https://github.com/algerkong/AlgerMusicPlayer    
+        - name: ZyPlayer
+          description: 电脑影视播放器
+          url: https://github.com/Hiram-Wong/ZyPlayer        
     - name: 关于本站
       sites:
         - name: 大强官网
