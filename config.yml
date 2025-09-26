@@ -92,6 +92,21 @@ content:
         - name: github加速
           description: GitHub下载加速
           url: https://yishijie.gitlab.io/ziyuan/
+        - name: openlist
+          description: 网盘挂载工具
+          url: https://github.com/OpenListTeam/OpenList                   
+        - name: 4275
+          description: 无需注册登录
+          url: https://4275.com/
+        - name: 直链
+          description: 蓝奏云/123云盘生成
+          url: https://lz.qaiu.top/
+        - name: 蓝奏云
+          description: 一个蓝奏云增强脚本
+          url: https://greasyfork.org/zh-CN/scripts/419224-%E8%93%9D%E5%A5%8F%E4%BA%91%E7%BD%91%E7%9B%98%E5%A2%9E%E5%BC%BA
+        - name: 任推帮
+          description: 网盘拉新赚收益
+          url: https://dt.bd.cn/#/pages/login/register?invite_code=577546            
     - name: 效率工具
       sites:
         - name: PixPin
@@ -132,8 +147,6 @@ content:
         - name: 提示词合集
           description: 优质提示词合集
           url: https://www.prompterhub.cn/best-practices
-    - name: 编程开发
-      sites:
         - name: Cursor
           description: 集成AI功能的代码编辑器
           url: https://cursor.com/  
@@ -169,6 +182,18 @@ content:
         - name: Iptv-api 
           description: 自编译直播源
           url: https://xodnytdcaw.feishu.cn/wiki/Id2KwbqcgiFzV9kfh83cZ3brnod?fromScene=spaceOverview
+        - name: OBS
+          description: 录频直播工具
+          url: https://obsproject.com/  
+        - name: PotPlayer
+          description: 视频播放器
+          url: https://www.kdocs.cn/l/clmJIYpDA4mH     
+        - name: AlgerMusicPlayer
+          description: 网易云第三方播放器
+          url: https://github.com/algerkong/AlgerMusicPlayer    
+        - name: ZyPlayer
+          description: 电脑影视播放器
+          url: https://github.com/Hiram-Wong/ZyPlayer          
     - name: 壁纸网站
       sites:
         - name: 遮风壁纸
@@ -246,33 +271,7 @@ content:
           url: https://qrbtf.com/zh
         - name: excalidraw
           description: 白板
-          url: https://excalidraw.com/
-    - name: 文件传输
-      sites:
-        - name: landrop
-          description: 局域网传输
-          url: https://landrop.app/
-        - name: openlist
-          description: 网盘挂载工具
-          url: https://github.com/OpenListTeam/OpenList          
-        - name: piclist
-          description: 图床工具
-          url: https://piclist.cn/
-        - name: 任推帮
-          description: 网盘拉新赚收益
-          url: https://dt.bd.cn/#/pages/login/register?invite_code=577546            
-        - name: 4275
-          description: 无需注册登录
-          url: https://4275.com/
-        - name: 直链
-          description: 蓝奏云/123云盘生成
-          url: https://lz.qaiu.top/
-        - name: 蓝奏云
-          description: 一个蓝奏云增强脚本
-          url: https://greasyfork.org/zh-CN/scripts/419224-%E8%93%9D%E5%A5%8F%E4%BA%91%E7%BD%91%E7%9B%98%E5%A2%9E%E5%BC%BA
-        - name: 123
-          description: 一个123增强脚本
-          url: https://greasyfork.org/zh-CN/scripts/519353-123%E4%BA%91%E7%9B%98%E8%A7%A3%E9%94%81        
+          url: https://excalidraw.com/        
     - name: 网络相关
       sites:
         - name: Hiddify
@@ -376,21 +375,7 @@ content:
           url: https://www.icloud.com.cn/    
         - name: 尝鲜派
           description: 最新版本体验
-          url:  https://betahub.cn/
-    - name: 影视娱乐
-      sites:
-        - name: OBS
-          description: 录频直播工具
-          url: https://obsproject.com/  
-        - name: PotPlayer
-          description: 视频播放器
-          url: https://www.kdocs.cn/l/clmJIYpDA4mH     
-        - name: AlgerMusicPlayer
-          description: 网易云第三方播放器
-          url: https://github.com/algerkong/AlgerMusicPlayer    
-        - name: ZyPlayer
-          description: 电脑影视播放器
-          url: https://github.com/Hiram-Wong/ZyPlayer        
+          url:  https://betahub.cn/       
     - name: 关于本站
       sites:
         - name: 大强官网
