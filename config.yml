@@ -42,6 +42,20 @@ content:
   categories:
     - name: 常用推荐
       sites:
+        - name: 大强官网
+          description: 导航页
+          url: https://dqtx.cc
+        - name: 大强附件表
+          description: 往期视频附件
+          url: https://88.dqtx.cc/main.html#/README.md
+        - name: 远程支持
+          description: 远程解决电脑问题
+          url: https://www.742112.xyz/
+        - name: chrome插件
+          description: chrome优质插件
+          url: https://discreet-ringer-ef6.notion.site/chrome-19b351994e40800db8fcd988348f533a  
+    - name: 热门工具
+      sites:
         - name: Github
           description: 全球最大的代码托管平台。
           url: https://github.com/
@@ -106,7 +120,33 @@ content:
           url: https://greasyfork.org/zh-CN/scripts/419224-%E8%93%9D%E5%A5%8F%E4%BA%91%E7%BD%91%E7%9B%98%E5%A2%9E%E5%BC%BA
         - name: 任推帮
           description: 网盘拉新赚收益
-          url: https://dt.bd.cn/#/pages/login/register?invite_code=577546            
+          url: https://dt.bd.cn/#/pages/login/register?invite_code=577546
+    - name: 系统维护
+      sites:
+        - name: HiBit
+          description: 软件卸载
+          url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/iLHZK371f3kf
+        - name: Winrar
+          description: 解压缩软件
+          url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/iG5A6371g9cj           
+        - name: SoftCnKiller
+          description: 流氓软件专项清理
+          url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/ikf5j2ancdgh
+        - name: W11ClassicMenu
+          description: Win11恢复传统右键菜单
+          url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/iNZOo320ywyb          
+        - name: DiskGenius 
+          description: 硬盘分区管理工具
+          url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/iboYh2znqo3e    
+        - name: DirectX
+          description: DLL修复
+          url: https://pan.xunlei.com/s/VOa34ENGBCynPo4VLrHIxu5rA1?pwd=6j9w#  
+        - name: Defender
+          description: 彻底禁用
+          url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/ieefU2anb7pe     
+        - name: 驱动总裁 
+          description: 驱动安装器
+          url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/ig3Rn3257ebi          
     - name: 效率工具
       sites:
         - name: PixPin
@@ -121,6 +161,9 @@ content:
         - name: PicList
           description: 图床工具
           url: https://piclist.cn/
+        - name: 微信多开
+          description: 支持4.1.0.34
+          url: https://github.com/zhangqi222/SoEasy-WeiXinMulitLauncher/releases          
     - name: 人工智能
       sites:
         - name: ChatGPT
@@ -219,33 +262,7 @@ content:
           url: https://4kwallpapers.com/
         - name: wallspic
           description: 手机壁纸
-          url: https://wallspic.com/cn    
-    - name: 脑洞运营
-      sites:
-        - name: 热榜
-          description: 每日热点追踪
-          url: https://newsnow.busiyi.world/
-        - name: mdnice
-          description: mrkdown排版
-          url: https://editor.mdnice.com/
-        - name: openai
-          description: 文字转语音
-          url: https://www.openai.fm/
-        - name: get笔记
-          description: AI笔记
-          url: https://www.biji.com/note     
-        - name: B站
-          description: 科技数码区
-          url: https://space.bilibili.com/491358682/upload/video
-        - name: YouTube
-          description: 海外视频社区
-          url: https://www.youtube.com/@dqtx760/videos
-        - name: 抖音
-          description: 字节公司产品
-          url: https://www.douyin.com/user/self?from_tab_name=main 
-        - name: 小红书
-          description: 兴趣社区
-          url: https://www.xiaohongshu.com/user/profile/5ce0d3a7000000001202e31b?xsec_token=YBBIYOqFwg1n9igsF09ObGwd0ulMEur6mgk7llsXBpS_M=&xsec_source=app_share&xhsshare=CopyLink&appuid=5ce0d3a7000000001202e31b&apptime=1751276165&share_id=94cac1806524407ea7a7f0f960f41b38      
+          url: https://wallspic.com/cn
     - name: 图片工具
       sites:
         - name: 美图设计师
@@ -271,7 +288,36 @@ content:
           url: https://qrbtf.com/zh
         - name: excalidraw
           description: 白板
-          url: https://excalidraw.com/        
+          url: https://excalidraw.com/
+        - name: 鲜艺AI抠图
+          description: 抠图工具
+          url: https://kt.94xy.com/          
+    - name: 运营工具
+      sites:
+        - name: 热榜
+          description: 每日热点追踪
+          url: https://newsnow.busiyi.world/
+        - name: mdnice
+          description: mrkdown排版
+          url: https://editor.mdnice.com/
+        - name: openai
+          description: 文字转语音
+          url: https://www.openai.fm/
+        - name: get笔记
+          description: AI笔记
+          url: https://www.biji.com/note     
+        - name: B站
+          description: 科技数码区
+          url: https://space.bilibili.com/491358682/upload/video
+        - name: YouTube
+          description: 海外视频社区
+          url: https://www.youtube.com/@dqtx760/videos
+        - name: 抖音
+          description: 字节公司产品
+          url: https://www.douyin.com/user/self?from_tab_name=main 
+        - name: 小红书
+          description: 兴趣社区
+          url: https://www.xiaohongshu.com/user/profile/5ce0d3a7000000001202e31b?xsec_token=YBBIYOqFwg1n9igsF09ObGwd0ulMEur6mgk7llsXBpS_M=&xsec_source=app_share&xhsshare=CopyLink&appuid=5ce0d3a7000000001202e31b&apptime=1751276165&share_id=94cac1806524407ea7a7f0f960f41b38         
     - name: 网络相关
       sites:
         - name: Hiddify
@@ -323,33 +369,7 @@ content:
           url: https://www.wepe.com.cn/download.html    
         - name: balena
           description: U启工具
-          url: https://etcher.balena.io/
-    - name: 系统维护
-      sites:
-        - name: HiBit
-          description: 软件卸载
-          url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/iLHZK371f3kf
-        - name: Winrar
-          description: 解压缩软件
-          url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/iG5A6371g9cj           
-        - name: SoftCnKiller
-          description: 流氓软件专项清理
-          url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/ikf5j2ancdgh
-        - name: W11ClassicMenu
-          description: Win11恢复传统右键菜单
-          url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/iNZOo320ywyb          
-        - name: DiskGenius 
-          description: 硬盘分区管理工具
-          url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/iboYh2znqo3e    
-        - name: DirectX
-          description: DLL修复
-          url: https://pan.xunlei.com/s/VOa34ENGBCynPo4VLrHIxu5rA1?pwd=6j9w#  
-        - name: Defender
-          description: 彻底禁用
-          url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/ieefU2anb7pe     
-        - name: 驱动总裁 
-          description: 驱动安装器
-          url: https://lz.qaiu.top/parser?url=https://wwzq.lanzouq.com/ig3Rn3257ebi            
+          url: https://etcher.balena.io/            
     - name: 苹果相关
       sites:
         - name: hubweb
@@ -363,30 +383,22 @@ content:
           url: https://gofans.cn/    
         - name: IMEI查询
           description: 苹果序列号查询
-          url:  https://www.guofenjianding.com/index
-        - name: 巨魔
-          description: 巨魔助手安装
-          url: https://www.joia.cn/trollstore/install/  
-        - name: 爱思助手
-          description: IPhone刷机工具
-          url: https://www.i4.cn/     
+          url:  https://www.guofenjianding.com/index      
         - name: iCloud
           description: 苹果云储存
           url: https://www.icloud.com.cn/    
         - name: 尝鲜派
           description: 最新版本体验
-          url:  https://betahub.cn/       
-    - name: 关于本站
-      sites:
-        - name: 大强官网
-          description: 导航页
-          url: https://dqtx.cc
-        - name: 大强附件表
-          description: 往期视频附件
-          url: https://88.dqtx.cc/main.html#/README.md
-        - name: 远程支持
-          description: 远程解决电脑问题
-          url: https://www.742112.xyz/
-        - name: chrome插件
-          description: chrome优质插件
-          url: https://discreet-ringer-ef6.notion.site/chrome-19b351994e40800db8fcd988348f533a
+          url:  https://betahub.cn/
+        - name: 爱思助手
+          description: IPhone刷机工具
+          url: https://www.i4.cn/           
+        - name: 巨魔商店
+          description: 巨魔助手安装
+          url: https://www.joia.cn/trollstore/install/
+        - name: Trollstore
+          description: ZH15.2-16.7/17.0
+          url: https://github.com/JJTech0130/TrollRestore/releases
+        - name: Sideloadly
+          description: 自签IPA 的工具
+          url: https://sideloadly.io/          
