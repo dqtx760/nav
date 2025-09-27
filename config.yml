@@ -79,7 +79,45 @@ content:
           url: https://suo.im/
         - name: 临时邮箱
           description: 十秒钟内收到邮件。
-          url: https://tempmail.cn/   
+          url: https://tempmail.cn/
+    - name: 人工智能
+      sites:
+        - name: ChatGPT
+          description: 写作辅助工具
+          url: https://chat.openai.com/
+        - name: Gemini
+          description: Gemini2.5Pro
+          url: https://gemini.google.com/
+        - name: Grok
+          description: 马斯克的AI工具
+          url: https://grok.com/ 
+        - name: perplexity
+          description: AI搜索引擎
+          url: https://www.perplexity.ai/
+        - name: Cherry-studio      
+          description: AI客户端
+          url: https://www.cherry-ai.com/
+        - name: 仙宫云
+          description: AI云服务器租赁
+          url: https://www.xiangongyun.com/register/TLJSYM
+        - name: 提示词优化
+          description: 提示词优化器
+          url: https://prompt.always200.com/       
+        - name: 提示词合集
+          description: 优质提示词合集
+          url: https://www.prompterhub.cn/best-practices
+        - name: Cursor
+          description: 集成AI功能的代码编辑器
+          url: https://cursor.com/  
+        - name: VSCode
+          description: 代码编辑器
+          url: https://www.kdocs.cn/l/clmJIYpDA4mH     
+        - name: HBuilder
+          description: 代理编辑器
+          url: https://www.dcloud.io/hbuilderx.html    
+        - name: MobaXterm
+          description: ssl汉化版
+          url: https://github.com/RipplePiam/MobaXterm-Chinese-Simplified/releases          
     - name: 下载工具
       sites:
         - name: IDM
@@ -181,45 +219,7 @@ content:
           url: https://greasyfork.org/zh-CN/scripts/435208-github-%E4%B8%AD%E6%96%87%E5%8C%96%E6%8F%92%E4%BB%B6
         - name: 文章下载
           description: 保存文章为mrkdown
-          url: https://greasyfork.org/zh-CN/scripts/472996-%E4%B8%8B%E8%BD%BDcsdn-%E7%AE%80%E4%B9%A6-%E6%8E%98%E9%87%91-%E5%8D%9A%E5%AE%A2%E5%9B%AD-%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-%E7%9F%A5%E4%B9%8E%E4%B8%93%E6%A0%8F-%E8%84%9A%E6%9C%AC%E4%B9%8B%E5%AE%B6-51cto-%E7%A8%8B%E5%BA%8F%E5%91%98%E5%A4%A7%E6%9C%AC%E8%90%A5-%E5%90%BE%E7%88%B1%E7%A0%B4%E8%A7%A3-b%E7%AB%99-%E6%80%9D%E5%90%A6-%E8%BD%BB%E8%AF%86-%E8%85%BE%E8%AE%AF%E4%BA%91-%E9%98%BF%E9%87%8C%E4%BA%91-%E5%8D%8E%E4%B8%BA%E4%BA%91%E7%AD%89%E6%96%87%E7%AB%A0%E4%BF%9D%E5%AD%98%E4%B8%BAword-markdown%E6%96%87%E4%BB%B6          
-    - name: 人工智能
-      sites:
-        - name: ChatGPT
-          description: 写作辅助工具
-          url: https://chat.openai.com/
-        - name: Gemini
-          description: Gemini2.5Pro
-          url: https://gemini.google.com/
-        - name: Grok
-          description: 马斯克的AI工具
-          url: https://grok.com/ 
-        - name: perplexity
-          description: AI搜索引擎
-          url: https://www.perplexity.ai/
-        - name: Cherry-studio      
-          description: AI客户端
-          url: https://www.cherry-ai.com/
-        - name: 仙宫云
-          description: AI云服务器租赁
-          url: https://www.xiangongyun.com/register/TLJSYM
-        - name: 提示词优化
-          description: 提示词优化器
-          url: https://prompt.always200.com/       
-        - name: 提示词合集
-          description: 优质提示词合集
-          url: https://www.prompterhub.cn/best-practices
-        - name: Cursor
-          description: 集成AI功能的代码编辑器
-          url: https://cursor.com/  
-        - name: VSCode
-          description: 代码编辑器
-          url: https://www.kdocs.cn/l/clmJIYpDA4mH     
-        - name: HBuilder
-          description: 代理编辑器
-          url: https://www.dcloud.io/hbuilderx.html    
-        - name: MobaXterm
-          description: ssl汉化版
-          url: https://github.com/RipplePiam/MobaXterm-Chinese-Simplified/releases            
+          url: https://greasyfork.org/zh-CN/scripts/472996-%E4%B8%8B%E8%BD%BDcsdn-%E7%AE%80%E4%B9%A6-%E6%8E%98%E9%87%91-%E5%8D%9A%E5%AE%A2%E5%9B%AD-%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-%E7%9F%A5%E4%B9%8E%E4%B8%93%E6%A0%8F-%E8%84%9A%E6%9C%AC%E4%B9%8B%E5%AE%B6-51cto-%E7%A8%8B%E5%BA%8F%E5%91%98%E5%A4%A7%E6%9C%AC%E8%90%A5-%E5%90%BE%E7%88%B1%E7%A0%B4%E8%A7%A3-b%E7%AB%99-%E6%80%9D%E5%90%A6-%E8%BD%BB%E8%AF%86-%E8%85%BE%E8%AE%AF%E4%BA%91-%E9%98%BF%E9%87%8C%E4%BA%91-%E5%8D%8E%E4%B8%BA%E4%BA%91%E7%AD%89%E6%96%87%E7%AB%A0%E4%BF%9D%E5%AD%98%E4%B8%BAword-markdown%E6%96%87%E4%BB%B6                      
     - name: 影音娱乐
       sites:
         - name: VeloraTV
@@ -245,10 +245,7 @@ content:
           url: https://xodnytdcaw.feishu.cn/wiki/Id2KwbqcgiFzV9kfh83cZ3brnod?fromScene=spaceOverview
         - name: OBS
           description: 录频直播工具
-          url: https://obsproject.com/  
-        - name: PotPlayer
-          description: 视频播放器
-          url: https://www.kdocs.cn/l/clmJIYpDA4mH     
+          url: https://obsproject.com/       
         - name: AlgerMusicPlayer
           description: 网易云第三方播放器
           url: https://github.com/algerkong/AlgerMusicPlayer    
@@ -422,22 +419,22 @@ content:
           url: https://www.icloud.com.cn/    
         - name: 尝鲜派
           description: 最新版本体验
-          url:  https://betahub.cn/
+          url:  https://betahub.cn/           
+        - name: Sideloadly
+          description: 自签IPA 的工具
+          url: https://sideloadly.io/
+        - name: 爱思签名教程
+          description: 有效期7天
+          url: https://xodnytdcaw.feishu.cn/wiki/FRddw0f53ilSL3knY8EcjdognAd
         - name: 爱思助手
           description: IPhone刷机工具
-          url: https://www.i4.cn/           
+          url: https://www.i4.cn/          
         - name: 巨魔商店
           description: 巨魔助手安装
           url: https://www.joia.cn/trollstore/install/
         - name: Trollstore
           description: ZH15.2-16.7/17.0
           url: https://github.com/JJTech0130/TrollRestore/releases
-        - name: Sideloadly
-          description: 自签IPA 的工具
-          url: https://sideloadly.io/
-        - name: IPA包
+        - name: IPA安装包
           description: 巨魔永久签名
-          url: https://pan.xunlei.com/?path=%2F%E6%88%91%E7%9A%84%E8%B5%84%E6%BA%90%2F%E5%A4%A7%E5%BC%BA%E5%90%8C%E5%AD%A6%E8%B5%84%E6%96%99%E9%A6%86%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%E5%AE%89%E8%A3%85%E5%8C%85%E5%90%88%E9%9B%86
-        - name: 爱思签名教程
-          description: 有效期7天
-          url: https://xodnytdcaw.feishu.cn/wiki/FRddw0f53ilSL3knY8EcjdognAd
+          url: https://pan.xunlei.com/?path=%2F%E6%88%91%E7%9A%84%E8%B5%84%E6%BA%90%2F%E5%A4%A7%E5%BC%BA%E5%90%8C%E5%AD%A6%E8%B5%84%E6%96%99%E9%A6%86%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%E5%AE%89%E8%A3%85%E5%8C%85%E5%90%88%E9%9B%86          
