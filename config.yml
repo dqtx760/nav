@@ -172,7 +172,16 @@ content:
           url: https://mp.weixin.qq.com/s/-Sshn_ejD2R-od6_aRhvdA
         - name: EasyCopy
           description: 复制当前网页内容插件
-          url: https://chromewebstore.google.com/detail/easycopy/kconeemaffcgejhcegceinkhalmgdicf          
+          url: https://chromewebstore.google.com/detail/easycopy/kconeemaffcgejhcegceinkhalmgdicf
+        - name: Scraper
+          description: 网页爬虫插件
+          url: https://chromewebstore.google.com/detail/easy-scraper-one-click-we/cljbfnedccphacfneigoegkiieckjndh
+        - name: GitHub汉化
+          description: 仅针对菜单栏
+          url: https://greasyfork.org/zh-CN/scripts/435208-github-%E4%B8%AD%E6%96%87%E5%8C%96%E6%8F%92%E4%BB%B6
+        - name: 文章下载
+          description: 保存文章为mrkdown
+          url: https://greasyfork.org/zh-CN/scripts/472996-%E4%B8%8B%E8%BD%BDcsdn-%E7%AE%80%E4%B9%A6-%E6%8E%98%E9%87%91-%E5%8D%9A%E5%AE%A2%E5%9B%AD-%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-%E7%9F%A5%E4%B9%8E%E4%B8%93%E6%A0%8F-%E8%84%9A%E6%9C%AC%E4%B9%8B%E5%AE%B6-51cto-%E7%A8%8B%E5%BA%8F%E5%91%98%E5%A4%A7%E6%9C%AC%E8%90%A5-%E5%90%BE%E7%88%B1%E7%A0%B4%E8%A7%A3-b%E7%AB%99-%E6%80%9D%E5%90%A6-%E8%BD%BB%E8%AF%86-%E8%85%BE%E8%AE%AF%E4%BA%91-%E9%98%BF%E9%87%8C%E4%BA%91-%E5%8D%8E%E4%B8%BA%E4%BA%91%E7%AD%89%E6%96%87%E7%AB%A0%E4%BF%9D%E5%AD%98%E4%B8%BAword-markdown%E6%96%87%E4%BB%B6          
     - name: 人工智能
       sites:
         - name: ChatGPT
@@ -211,7 +220,7 @@ content:
         - name: MobaXterm
           description: ssl汉化版
           url: https://github.com/RipplePiam/MobaXterm-Chinese-Simplified/releases            
-    - name: 电影网站
+    - name: 影音娱乐
       sites:
         - name: VeloraTV
           description: UI精美，播放高清
@@ -245,7 +254,13 @@ content:
           url: https://github.com/algerkong/AlgerMusicPlayer    
         - name: ZyPlayer
           description: 电脑影视播放器
-          url: https://github.com/Hiram-Wong/ZyPlayer          
+          url: https://github.com/Hiram-Wong/ZyPlayer
+        - name: PotPlayer
+          description: 视频播放器
+          url: https://www.kdocs.cn/l/clmJIYpDA4mH
+        - name: VLC脚本
+          description: 乱码解决
+          url: https://github.com/dqtx760/vlt_zh
     - name: 壁纸网站
       sites:
         - name: 遮风壁纸
@@ -419,4 +434,10 @@ content:
           url: https://github.com/JJTech0130/TrollRestore/releases
         - name: Sideloadly
           description: 自签IPA 的工具
-          url: https://sideloadly.io/          
+          url: https://sideloadly.io/
+        - name: IPA包
+          description: 巨魔永久签名
+          url: https://pan.xunlei.com/?path=%2F%E6%88%91%E7%9A%84%E8%B5%84%E6%BA%90%2F%E5%A4%A7%E5%BC%BA%E5%90%8C%E5%AD%A6%E8%B5%84%E6%96%99%E9%A6%86%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%E5%AE%89%E8%A3%85%E5%8C%85%E5%90%88%E9%9B%86
+        - name: 爱思签名教程
+          description: 有效期7天
+          url: https://xodnytdcaw.feishu.cn/wiki/FRddw0f53ilSL3knY8EcjdognAd
