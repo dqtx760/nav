@@ -88,6 +88,12 @@ content:
         - name: YTSage
           description: 采用yt-dlp架构
           url: https://github.com/oop7/YTSage/releases
+        - name: 视频号下载      
+          description: 视频号下载软件
+          url: https://github.com/ltaoo/wx_channels_download/releases
+        - name: openlist
+          description: 网盘挂载工具
+          url: https://github.com/OpenListTeam/OpenList          
         - name: B站下载
           description: chrome插件
           url: https://chromewebstore.google.com/detail/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B/djinnjdnedmcilpnboifdhfgbbhgieee 
@@ -96,28 +102,19 @@ content:
           url: https://chromewebstore.google.com/detail/dhjaibcmgocbpegmejfphjhhpaphmkpp
         - name: 123
           description: 一个123增强脚本
-          url: https://greasyfork.org/zh-CN/scripts/519353-123%E4%BA%91%E7%9B%98%E8%A7%A3%E9%94%81                 
-        - name: 视频号下载      
-          description: 视频号下载软件
-          url: https://github.com/ltaoo/wx_channels_download/releases
-        - name: 蓝奏云
-          description: 第三方客户端
-          url: https://github.com/chenhb23/lanzouyun-disk/releases                 
-        - name: github加速
-          description: GitHub下载加速
-          url: https://yishijie.gitlab.io/ziyuan/
-        - name: openlist
-          description: 网盘挂载工具
-          url: https://github.com/OpenListTeam/OpenList                   
-        - name: 4275
-          description: 无需注册登录
-          url: https://4275.com/
-        - name: 直链
-          description: 蓝奏云/123云盘生成
-          url: https://lz.qaiu.top/
+          url: https://greasyfork.org/zh-CN/scripts/519353-123%E4%BA%91%E7%9B%98%E8%A7%A3%E9%94%81
         - name: 蓝奏云
           description: 一个蓝奏云增强脚本
-          url: https://greasyfork.org/zh-CN/scripts/419224-%E8%93%9D%E5%A5%8F%E4%BA%91%E7%BD%91%E7%9B%98%E5%A2%9E%E5%BC%BA
+          url: https://greasyfork.org/zh-CN/scripts/419224-%E8%93%9D%E5%A5%8F%E4%BA%91%E7%BD%91%E7%9B%98%E5%A2%9E%E5%BC%BA                    
+        - name: 4275
+          description: 极速云文件中转站
+          url: https://4275.com/
+        - name: 网盘直链解析
+          description: 蓝奏云/123云盘生成
+          url: https://lz.qaiu.top/
+        - name: github加速
+          description: GitHub下载加速
+          url: https://yishijie.gitlab.io/ziyuan/          
         - name: 任推帮
           description: 网盘拉新赚收益
           url: https://dt.bd.cn/#/pages/login/register?invite_code=577546
@@ -152,6 +149,9 @@ content:
         - name: PixPin
           description: 截图工具
           url: https://pixpin.cn/
+        - name: ShareX
+          description: 截图自动加背景
+          url: https://getsharex.com/          
         - name: Listary
           description: 文件搜索工具
           url: https://www.listary.net/
@@ -163,7 +163,16 @@ content:
           url: https://piclist.cn/
         - name: 微信多开
           description: 支持4.1.0.34
-          url: https://github.com/zhangqi222/SoEasy-WeiXinMulitLauncher/releases          
+          url: https://github.com/zhangqi222/SoEasy-WeiXinMulitLauncher/releases
+        - name: 微输入法
+          description: 常用语/同步功能
+          url: https://z.weixin.qq.com/
+        - name: iFlow
+          description: cmd终端AI助手
+          url: https://mp.weixin.qq.com/s/-Sshn_ejD2R-od6_aRhvdA
+        - name: EasyCopy
+          description: 复制当前网页内容插件
+          url: https://chromewebstore.google.com/detail/easycopy/kconeemaffcgejhcegceinkhalmgdicf          
     - name: 人工智能
       sites:
         - name: ChatGPT
@@ -265,12 +274,18 @@ content:
           url: https://wallspic.com/cn
     - name: 图片工具
       sites:
+        - name: PS2025
+          description: 安装与设置
+          url: https://www.kdocs.cn/l/camYZ7UK6kgi      
         - name: 美图设计师
           description: 封面制作
           url: https://www.designkit.com
         - name: 即梦AI
           description: 字节文生图工具
-          url: https://jimeng.jianying.com/ai-tool/image/generate     
+          url: https://jimeng.jianying.com/ai-tool/image/generate
+        - name: 鲜艺AI抠图
+          description: 抠图工具
+          url: https://kt.94xy.com/          
         - name: 拼图
           description: 网页端
           url: https://collagemaker.tools/photo/
@@ -289,9 +304,12 @@ content:
         - name: excalidraw
           description: 白板
           url: https://excalidraw.com/
-        - name: 鲜艺AI抠图
-          description: 抠图工具
-          url: https://kt.94xy.com/          
+        - name: 字体下载
+          description: 无版权可商用
+          url: https://wangchujiang.com/free-font/
+        - name: 3D图标
+          description: AI生成
+          url: https://www.thiings.co/things          
     - name: 运营工具
       sites:
         - name: 热榜
