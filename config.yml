@@ -54,7 +54,7 @@ content:
         - name: chrome插件
           description: chrome优质插件
           url: https://discreet-ringer-ef6.notion.site/chrome-19b351994e40800db8fcd988348f533a  
-    - name: 热门工具
+    - name: 网站搭建
       sites:
         - name: Github
           description: 全球最大的代码托管平台。
@@ -65,9 +65,9 @@ content:
         - name: Cloudflare
           description: 域名托管/反向代理。
           url: https://dash.cloudflare.com/
-        - name: Greasy
-          description: 油猴脚本下载
-          url: https://greasyfork.org/zh-CN   
+        - name: 雨云
+          description: 高性价服务器域名
+          url: https://www.rainyun.com/NzYxMDg2_  
         - name: IP查询
           description: IP4/ipv6查询。
           url: https://ip.sb/
