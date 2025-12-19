@@ -68,6 +68,9 @@ content:
         - name: 雨云
           description: 高性价服务器域名
           url: https://www.rainyun.com/NzYxMDg2_  
+        - name: MobaXterm
+          description: ssl汉化版
+          url: https://github.com/RipplePiam/MobaXterm-Chinese-Simplified/releases
         - name: IP查询
           description: IP4/ipv6查询。
           url: https://ip.sb/
@@ -77,9 +80,6 @@ content:
         - name: 短链
           description: 长连接转短链接
           url: https://suo.im/
-        - name: 临时邮箱
-          description: 十秒钟内收到邮件。
-          url: https://tempmail.cn/
     - name: 人工智能
       sites:
         - name: ChatGPT
@@ -107,17 +107,17 @@ content:
           description: 优质提示词合集
           url: https://www.prompterhub.cn/best-practices
         - name: Cursor
-          description: 集成AI功能的代码编辑器
+          description: AI编程软件
           url: https://cursor.com/  
+        - name: Trea国际版
+          description: AI编程软件
+          url: https://blog.csdn.net/2402_82616859/article/details/152725934?spm=1001.2014.3001.5502 
         - name: VSCode
           description: 代码编辑器
           url: https://www.kdocs.cn/l/clmJIYpDA4mH     
         - name: HBuilder
           description: 代理编辑器
-          url: https://www.dcloud.io/hbuilderx.html    
-        - name: MobaXterm
-          description: ssl汉化版
-          url: https://github.com/RipplePiam/MobaXterm-Chinese-Simplified/releases          
+          url: https://www.dcloud.io/hbuilderx.html             
     - name: 下载工具
       sites:
         - name: IDM
