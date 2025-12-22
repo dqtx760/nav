@@ -161,7 +161,7 @@ content:
           description: 谷歌推出的CLI编码平台
           url: https://antigravity.google/
         - name: iFlow
-          description: 心流AI推出的终端编程工具。
+          description: 心流AI推出的终端编程工具
           url: https://cli.iflow.cn/
         - name: Warp AI
           description: 集成于终端环境的AI编程工具
@@ -205,7 +205,7 @@ content:
           description: 网盘拉新赚收益
           url: https://dt.bd.cn/#/pages/login/register?invite_code=577546
     - name: 系统相关
-        sites:
+      sites:
         - name: Massgrave
           description: Win镜像下载
           url: https://massgrave.dev/windows_ltsc_links  
