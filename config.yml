@@ -81,35 +81,37 @@ content:
           description: 长连接转短链接
           url: https://suo.im/
     - name: 人工智能
-      sites:
-        - name: ChatGPT
-          description: 写作辅助工具
-          url: https://chat.openai.com/
-        - name: Gemini
-          description: Gemini2.5Pro
-          url: https://gemini.google.com/
-        - name: Grok
-          description: 马斯克的AI工具
-          url: https://grok.com/ 
-        - name: perplexity
-          description: AI搜索引擎
-          url: https://www.perplexity.ai/
-        - name: Cherry-studio      
-          description: AI客户端
-          url: https://www.cherry-ai.com/
-        - name: 仙宫云
-          description: AI云服务器租赁
-          url: https://www.xiangongyun.com/register/TLJSYM
-        - name: 提示词优化
-          description: 提示词优化器
-          url: https://prompt.always200.com/       
-        - name: 提示词合集
-          description: 优质提示词合集
-          url: https://www.prompterhub.cn/best-practices
-        - name: Trea国际版
-          description: AI编程软件
-          url: https://blog.csdn.net/2402_82616859/article/details/152725934?spm=1001.2014.3001.5502 
-        categories:
+      # 为了同时显示通用工具和二级分类，建议统一放入子分类
+      categories:
+        - name: 常用工具
+          sites:
+            - name: ChatGPT
+              description: 写作辅助工具
+              url: https://chat.openai.com/
+            - name: Gemini
+              description: Gemini2.5Pro
+              url: https://gemini.google.com/
+            - name: Grok
+              description: 马斯克的AI工具
+              url: https://grok.com/ 
+            - name: perplexity
+              description: AI搜索引擎
+              url: https://www.perplexity.ai/
+            - name: Cherry-studio      
+              description: AI客户端
+              url: https://www.cherry-ai.com/
+            - name: 仙宫云
+              description: AI云服务器租赁
+              url: https://www.xiangongyun.com/register/TLJSYM
+            - name: 提示词优化
+              description: 提示词优化器
+              url: https://prompt.always200.com/       
+            - name: 提示词合集
+              description: 优质提示词合集
+              url: https://www.prompterhub.cn/best-practices
+            - name: Trea国际版
+              description: AI编程软件
+              url: https://blog.csdn.net/2402_82616859/article/details/152725934?spm=1001.2014.3001.5502 
         - name: IDE
           sites:
             - name: Windsurf
@@ -128,7 +130,7 @@ content:
           sites:
             - name: claude code
               description: Anthropic 推出的 24/7 命令行 AI 编程助手
-              url: https://claude.com/product/claude-code       
+              url: https://claude.com/product/claude-code
     - name: 下载工具
       sites:
         - name: IDM
