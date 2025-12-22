@@ -53,7 +53,31 @@ content:
           url: https://www.742112.xyz/
         - name: chrome插件
           description: chrome优质插件
-          url: https://discreet-ringer-ef6.notion.site/chrome-19b351994e40800db8fcd988348f533a  
+          url: https://discreet-ringer-ef6.notion.site/chrome-19b351994e40800db8fcd988348f533a
+        - name: 自助站
+          description: 大强的数字工坊
+          url: https://app.dqtx.cc
+        - name: 电视喵
+          description: TV应用导航站
+          url: https://tv.dqtx.cc
+        - name: DigitalFrontier
+          description: 上网冲浪新姿势
+          url: https://77.dqtx.cc
+        - name: 旁路由
+          description: 家庭旁路由网络拓扑
+          url: https://op.dqtx.cc/
+        - name: AI生图
+          description: 调用香蕉API生图网站
+          url: https://ai.dqtx.cc
+        - name: 计算器
+          description: 一个在线计算器
+          url: https://jsq.dqtx.cc
+        - name: 密码生成
+          description: 一个在线密码生成器
+          url: https://key.dqtx.cc/
+        - name: 源检查
+          description: 一个直播源检查工具
+          url: https://go.dqtx.cc
     - name: 网站搭建
       sites:
         - name: Github
@@ -117,7 +141,31 @@ content:
           url: https://www.kdocs.cn/l/clmJIYpDA4mH     
         - name: HBuilder
           description: 代理编辑器
-          url: https://www.dcloud.io/hbuilderx.html             
+          url: https://www.dcloud.io/hbuilderx.html
+        - name: Windsurf
+          description: IDE编程助手
+          url: https://windsurf.com/
+        - name: Claude Code
+          description: Anthropic推出的AI编程助手
+          url: https://claude.com/product/claude-code
+        - name: Codex
+          description: 由 OpenAI推出的AI编程工具
+          url: https://openai.com/zh-Hans-CN/codex/
+        - name: Qoder
+          description: 阿里巴巴推出的AI编程平台
+          url: https://qoder.com/
+        - name: Augment
+          description: VSCode中的AI编程插件
+          url: https://www.augmentcode.com/
+        - name: Antigravity
+          description: 谷歌推出的CLI编码平台
+          url: https://antigravity.google/
+        - name: iFlow
+          description: 心流AI推出的终端编程工具。
+          url: https://cli.iflow.cn/
+        - name: Warp AI
+          description: 集成于终端环境的AI编程工具
+          url: https://warp.dev/
     - name: 下载工具
       sites:
         - name: IDM
@@ -437,4 +485,4 @@ content:
           url: https://github.com/JJTech0130/TrollRestore/releases
         - name: IPA安装包
           description: 巨魔永久签名
-          url: https://pan.xunlei.com/?path=%2F%E6%88%91%E7%9A%84%E8%B5%84%E6%BA%90%2F%E5%A4%A7%E5%BC%BA%E5%90%8C%E5%AD%A6%E8%B5%84%E6%96%99%E9%A6%86%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%E5%AE%89%E8%A3%85%E5%8C%85%E5%90%88%E9%9B%86          
+          url: https://pan.xunlei.com/?path=%2F%E6%88%91%E7%9A%84%E8%B5%84%E6%BA%90%2F%E5%A4%A7%E5%BC%BA%E5%90%8C%E5%AD%A6%E8%B5%84%E6%96%99%E9%A6%86%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%E5%AE%89%E8%A3%85%E5%8C%85%E5%90%88%E9%9B%86
