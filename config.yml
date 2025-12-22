@@ -81,6 +81,28 @@ content:
           description: 长连接转短链接
           url: https://suo.im/
     - name: 人工智能
+      # 二级分类开始
+      categories:
+        - name: IDE
+          sites:
+            - name: Windsurf
+              description: 下一代 AI 助力集成开发环境 (IDE)
+              url: https://windsurf.com/
+            - name: Cursor
+              description: 智能 AI 代码编辑器
+              url: https://cursor.com/  
+            - name: VSCode
+              description: 现代化的代码编辑器
+              url: https://www.kdocs.cn/l/clmJIYpDA4mH     
+            - name: HBuilder
+              description: 强大的混合开发 IDE
+              url: https://www.dcloud.io/hbuilderx.html
+        - name: CLI
+          sites:
+            - name: claude code
+              description: Anthropic 推出的 24/7 命令行 AI 编程助手
+              url: https://claude.com/product/claude-code
+      # 原有其他通用 AI 站点
       sites:
         - name: ChatGPT
           description: 写作辅助工具
@@ -106,18 +128,9 @@ content:
         - name: 提示词合集
           description: 优质提示词合集
           url: https://www.prompterhub.cn/best-practices
-        - name: Cursor
-          description: AI编程软件
-          url: https://cursor.com/  
         - name: Trea国际版
           description: AI编程软件
           url: https://blog.csdn.net/2402_82616859/article/details/152725934?spm=1001.2014.3001.5502 
-        - name: VSCode
-          description: 代码编辑器
-          url: https://www.kdocs.cn/l/clmJIYpDA4mH     
-        - name: HBuilder
-          description: 代理编辑器
-          url: https://www.dcloud.io/hbuilderx.html             
     - name: 下载工具
       sites:
         - name: IDM
@@ -437,4 +450,4 @@ content:
           url: https://github.com/JJTech0130/TrollRestore/releases
         - name: IPA安装包
           description: 巨魔永久签名
-          url: https://pan.xunlei.com/?path=%2F%E6%88%91%E7%9A%84%E8%B5%84%E6%BA%90%2F%E5%A4%A7%E5%BC%BA%E5%90%8C%E5%AD%A6%E8%B5%84%E6%96%99%E9%A6%86%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%E5%AE%89%E8%A3%85%E5%8C%85%E5%90%88%E9%9B%86          
+          url: https://pan.xunlei.com/?path=%2F%E6%88%91%E7%9A%84%E8%B5%84%E6%BA%90%2F%E5%A4%A7%E5%BC%BA%E5%90%8C%E5%AD%A6%E8%B5%84%E6%96%99%E9%A6%86%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%E5%AE%89%E8%A3%85%E5%8C%85%E5%90%88%E9%9B%86
