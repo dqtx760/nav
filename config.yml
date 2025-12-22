@@ -80,9 +80,11 @@ content:
         - name: 短链
           description: 长连接转短链接
           url: https://suo.im/
+
+    # --- 人工智能分类修改部分 ---
     - name: 人工智能
-      # 为了同时显示通用工具和二级分类，建议统一放入子分类
-      categories:
+      icon: far fa-smart-card # 建议加上图标，WebStack 习惯
+      categories: # 只有这里使用了 categories，侧边栏才会出现折叠箭头
         - name: 常用工具
           sites:
             - name: ChatGPT
@@ -115,22 +117,24 @@ content:
         - name: IDE
           sites:
             - name: Windsurf
-              description: 下一代 AI 助力集成开发环境 (IDE)
+              description: 下一代 AI 助力集成开发环境
               url: https://windsurf.com/
             - name: Cursor
-              description: 智能 AI 代码编辑器
+              description: AI编程软件
               url: https://cursor.com/  
             - name: VSCode
-              description: 现代化的代码编辑器
+              description: 代码编辑器
               url: https://www.kdocs.cn/l/clmJIYpDA4mH     
             - name: HBuilder
-              description: 强大的混合开发 IDE
-              url: https://www.dcloud.io/hbuilderx.html
+              description: 代理编辑器
+              url: https://www.dcloud.io/hbuilderx.html             
         - name: CLI
           sites:
             - name: claude code
-              description: Anthropic 推出的 24/7 命令行 AI 编程助手
+              description: Anthropic 推出的命令行 AI 编程助手
               url: https://claude.com/product/claude-code
+    # --------------------------
+
     - name: 下载工具
       sites:
         - name: IDM
