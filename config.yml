@@ -104,6 +104,36 @@ content:
         - name: 短链
           description: 长连接转短链接
           url: https://suo.im/
+        - name: 图床
+          description: 免费的图片托管平台
+          url: https://111666.best/
+        - name: 哪煮米
+          description: 全网域名销售价格对比
+          url: https://www.nazhumi.com/
+        - name: 1Panel
+          description: 开源Linux服务器运维管理面板
+          url: https://1panel.cn/
+        - name: bento
+          description: 个人数字名片制作网站
+          url: https://bento.me/dqtx
+        - name: link3
+          description: 个人导航页制作网站
+          url: https://link3.cc/dqtx
+        - name: YouWare
+          description: html网页托管平台
+          url: https://youware.com/
+        - name: 谷歌联盟
+          description: 利用创收策略通过网站赚取收入
+          url: https://adsense.google.com/intl/zh-CN_cn/start/
+        - name: Semrush
+          description: 查流量、关键词、竞争对手、外链
+          url: https://zh.semrush.com/
+        - name: SimilarWeb
+          description: 查询网站流量、关键词流量、外链情况
+          url: https://www.similarweb.com/zh/
+        - name: Google Trends
+          description: 谷歌引擎关键词指数
+          url: https://trends.google.com.tw/trends?geo=TW&hl=zh-CN
     - name: 人工智能
       sites:
         - name: ChatGPT
