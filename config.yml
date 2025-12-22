@@ -80,11 +80,11 @@ content:
         - name: 短链
           description: 长连接转短链接
           url: https://suo.im/
-
-    # --- 人工智能分类修改部分 ---
+    
+    # --- 修正后的“人工智能”部分 ---
     - name: 人工智能
-      icon: far fa-smart-card # 建议加上图标，WebStack 习惯
-      categories: # 只有这里使用了 categories，侧边栏才会出现折叠箭头
+      icon: fas fa-robot # 建议增加图标，有助于美化侧边栏
+      categories:
         - name: 常用工具
           sites:
             - name: ChatGPT
@@ -133,7 +133,6 @@ content:
             - name: claude code
               description: Anthropic 推出的命令行 AI 编程助手
               url: https://claude.com/product/claude-code
-    # --------------------------
 
     - name: 下载工具
       sites:
