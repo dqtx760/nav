@@ -81,28 +81,6 @@ content:
           description: 长连接转短链接
           url: https://suo.im/
     - name: 人工智能
-      # 二级分类开始
-      categories:
-        - name: IDE
-          sites:
-            - name: Windsurf
-              description: 下一代 AI 助力集成开发环境 (IDE)
-              url: https://windsurf.com/
-            - name: Cursor
-              description: 智能 AI 代码编辑器
-              url: https://cursor.com/  
-            - name: VSCode
-              description: 现代化的代码编辑器
-              url: https://www.kdocs.cn/l/clmJIYpDA4mH     
-            - name: HBuilder
-              description: 强大的混合开发 IDE
-              url: https://www.dcloud.io/hbuilderx.html
-        - name: CLI
-          sites:
-            - name: claude code
-              description: Anthropic 推出的 24/7 命令行 AI 编程助手
-              url: https://claude.com/product/claude-code
-      # 原有其他通用 AI 站点
       sites:
         - name: ChatGPT
           description: 写作辅助工具
@@ -131,6 +109,26 @@ content:
         - name: Trea国际版
           description: AI编程软件
           url: https://blog.csdn.net/2402_82616859/article/details/152725934?spm=1001.2014.3001.5502 
+        categories:
+        - name: IDE
+          sites:
+            - name: Windsurf
+              description: 下一代 AI 助力集成开发环境 (IDE)
+              url: https://windsurf.com/
+            - name: Cursor
+              description: 智能 AI 代码编辑器
+              url: https://cursor.com/  
+            - name: VSCode
+              description: 现代化的代码编辑器
+              url: https://www.kdocs.cn/l/clmJIYpDA4mH     
+            - name: HBuilder
+              description: 强大的混合开发 IDE
+              url: https://www.dcloud.io/hbuilderx.html
+        - name: CLI
+          sites:
+            - name: claude code
+              description: Anthropic 推出的 24/7 命令行 AI 编程助手
+              url: https://claude.com/product/claude-code       
     - name: 下载工具
       sites:
         - name: IDM
